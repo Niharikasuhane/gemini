@@ -6,3 +6,4 @@ pypdf
 chromadb
 faiss-cpu
 langchain_google_genai
+langchain_text_splitters
